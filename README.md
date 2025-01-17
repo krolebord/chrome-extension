@@ -29,7 +29,7 @@ pnpm install
 1. Enable Chrome's Developer mode
 2. Run the build command:
 ```shell
-npm run build
+pnpm run build
 ```
 3. Click "Load unpacked" in Chrome Extensions
 4. Select the `build` folder
@@ -40,5 +40,5 @@ npm run build
 Create a distributable zip file:
 
 ```shell
-npm run package
+pnpm run package
 ```
